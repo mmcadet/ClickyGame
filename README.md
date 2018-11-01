@@ -11,3 +11,4 @@ Next version:
     -Have images shuffle
     -Have game restart after score reset
 
+ https://mmcadet.github.io/ClickyGame/
